@@ -1,0 +1,6 @@
+[submodule "creatures"]
+	path = creatures
+	url = git@github.com:BoneJarring/creatures.git
+[submodule "business"]
+	path = business
+	url = git@github.com:BoneJarring/business.git
