@@ -4,3 +4,6 @@
 [submodule "business"]
 	path = business
 	url = git@github.com:BoneJarring/business.git
+[submodule "utilities"]
+	path = utilities
+	url = git@github.com:BoneJarring/utilities
