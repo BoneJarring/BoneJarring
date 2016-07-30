@@ -7,3 +7,6 @@
 [submodule "utilities"]
 	path = utilities
 	url = git@github.com:BoneJarring/utilities
+[submodule "bonejarringservice"]
+	path = bonejarringservice
+	url = git@github.com:BoneJarring/bonejarringservice
