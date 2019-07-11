@@ -10,3 +10,6 @@
 [submodule "bonejarringservice"]
 	path = bonejarringservice
 	url = git@github.com:BoneJarring/bonejarringservice
+[submodule "gamemaster"]
+	path = gamemaster
+	url = git@github.com:BoneJarring/gamemaster
