@@ -13,3 +13,6 @@
 [submodule "gamemaster"]
 	path = gamemaster
 	url = git@github.com:BoneJarring/gamemaster
+[submodule "characterSheet"]
+	path = characterSheet
+	url = git@github.com:BoneJarring/characterSheet.git
